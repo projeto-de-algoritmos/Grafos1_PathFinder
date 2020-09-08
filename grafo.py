@@ -87,8 +87,6 @@ else:
     caminhos = temp
 
 
-print(caminhos)
-
 fig = plt.figure()
 
 timer = fig.canvas.new_timer(interval=duracao)
